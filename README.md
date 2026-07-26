@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Online%20Food%20Delivery%20Analysis%20Dashboard.png)
+![Dashboard Screenshot](Online%20Food%20Delivery%20Dashboard.png)
 
 ## Project Overview
 This project is an interactive Power BI dashboard developed to analyze online food delivery data. It provides insights into order trends, revenue, delivery performance, customer ratings, payment methods, and restaurant performance.
